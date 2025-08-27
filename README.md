@@ -9,6 +9,8 @@
 
 * [参考](https://www.century.co.jp/products/ct-usb1hub-l.html "USB troubleshooter lite (CT-USB1HUB-L)")
 
+* PC起動時には自動的にONになってしまうため、タスクスケジューラ等の使用が必要になる可能性もある。
+
 ## 使い方
 
 ※ONにする場合
